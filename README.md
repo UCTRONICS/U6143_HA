@@ -1,2 +1,36 @@
-# U6143_HA
-This repository is used for uctronics U6143_SSD1306 on Home Assistant system
+1. 点击 :配置 -> 加载项
+
+   ![1](img/1.png)
+
+2. 进入加载项页面,点击 加载项商店
+
+   ![2](img/2.png)
+
+3. 进入加载项商店,点击 右上角红框标注的菜单按钮
+
+   ![3](img/3.png)
+
+4. 点击仓库
+
+    ![4](img/4.png)
+
+5. 弹出添加仓库,输入仓库地址 https://github.com/UCTRONICS/U6143_HA ,点击添加,可以在3处看到添加的仓库
+
+    ![5](img/5.png)
+
+6. 返回加载项商店,点击检查更新.
+
+   ![6](img/6.png)
+
+7. 可以查看到刚刚添加的仓库和加载项
+
+   ![7](img/7.png)
+
+8. 点击要安装的加载项,等待安装成功后,禁止保护模式然后启动.
+
+   ![8](img/8.png)
+
+9. 然后可以看到 **lcd** 屏显示信息
+
+   ![9](img/9.jpeg)
+
