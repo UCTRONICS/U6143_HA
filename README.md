@@ -1,6 +1,6 @@
 # Use the tutorial
 
-1. click : Settings -> Add-ones.
+1. click : Settings -> Add-Ons.
 
    ![1](img/1.png)
 
@@ -24,7 +24,7 @@
 
    ![6](img/6.png)
 
-7. You can view the repositories and add-ins just added.
+7. You can view the repositories and add-ons added.
 
    ![7](img/7.png)
 
